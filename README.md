@@ -14,12 +14,12 @@
 
 </div>
 <br>
-<div align="center">
-  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=N3tup&theme=nord_dark"/>
-  </a>
+<div style="display: flex; align-items: flex-start; gap: 10px;">
   <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=RomainBouchez&theme=github_dark" />
+  </a>
+  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RomainBouchez&theme=github_dark" />
   </a>
 </div>
+

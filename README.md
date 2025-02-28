@@ -1,11 +1,6 @@
 ## 👋 Hey ! I'm Romain :)
 
-🔭 I’m currently working on expense tracking
-- ⚙️ I like things to be Open Source.
-- 🌱 I’m taking a look at the different types of IR/IL
-- 💬 Ask me about ... compilation ? I like it.
-- 📫 How to reach me: Just use my mail and I shall answer.
-- ⚡ Fun fact: I like Oat Milk.
+🔭 I’m currently working on my portoflio.
 
 <div align="center">
 
